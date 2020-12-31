@@ -1,0 +1,103 @@
+.bg
+{
+    background-image: linear-gradient(to right,rgb(120, 190, 220) ,rgb(120, 190, 110));
+
+}
+
+
+.textbig
+{
+    font-size: 29px;
+    font-weight: bold;
+}
+
+.navallign
+{
+    margin-left: 70px;
+}
+
+.smalltext
+{
+    color:grey;
+    text-align: end;
+    padding-left: 12px;
+}
+
+.fa-chevron-circle-down
+{
+    padding-left: 10px;
+}
+
+.smalltext-1
+{
+    color:cornflowerblue ;
+}
+
+.jumbleton-fluid
+{
+    padding-bottom: 50px;
+}
+
+.containerstyling
+{
+    padding-bottom:80px;
+}
+
+#hr
+{
+    color: yellow;
+}
+
+.icons
+{
+   padding-left: 10px;
+}
+
+.iconscolour
+{
+    color: red;
+}
+.fa-calendar{
+    color: blue;
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+
+
+.fa-user-circle{
+    color:black;
+    margin-right: 10px;
+    font-size: 30px;
+
+}
+.allign-button{
+    align-items: center;
+}
+.progress{
+    width:200px;
+    margin-right: 90px;
+}
+.card-body{
+    max-width:800px;
+}
+.progress-1{
+    width: 150px;
+    padding-top: 10px;
+    height: 1px;
+    
+}
+.progress-text{
+    font-size: 6px;
+    font-style: italic;
+    color:black;
+    padding-top: 6px;
+    padding-right: 3px;
+}
+.frost{
+    padding-left: 50px;
+}
+.alle{
+    color: blue;
+    padding-left: 10px;
+}
